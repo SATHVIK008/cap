@@ -22,7 +22,7 @@ st.markdown(
 )
 
 # Display logo
-st.image(logo, use_column_width=False, width=50, output_format="PNG")
+st.image(logo, use_column_width=False, width=20, output_format="PNG")
 
 # Set up session state to handle page transitions
 if "page" not in st.session_state:
