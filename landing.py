@@ -13,7 +13,7 @@ st.markdown(
         position: fixed;
         top: 10px;
         left: 10px;
-        width: 100px;
+        width: 30px;
         z-index: 1;
     }
     </style>
